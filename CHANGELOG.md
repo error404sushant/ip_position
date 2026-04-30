@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Updated repository and homepage links to point to the correct GitHub URL (`error404sushant`).
+
 ## 1.0.0
 
 * Initial release.

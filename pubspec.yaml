@@ -1,8 +1,8 @@
 name: ip_position
 description: "A Flutter package to fetch client IP addresses, DNS information, and precise geolocation data seamlessly using reliable endpoints."
-version: 1.0.0
-homepage: "https://github.com/sushantkumar/ip_position"
-repository: "https://github.com/sushantkumar/ip_position"
+version: 1.0.1
+homepage: "https://github.com/error404sushant/ip_position"
+repository: "https://github.com/error404sushant/ip_position"
 
 environment:
   sdk: ^3.9.2
